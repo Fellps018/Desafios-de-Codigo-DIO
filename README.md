@@ -24,7 +24,7 @@ A organização dos arquivos segue a lógica de Bootcamps e trilhas específicas
 └── 📂 Nome do Desafio
 |   └── 📂 desafio-1
 |       └── 📝 desafio.md (explicação)
-|           ☕ código.java (Resolução de acordo c a linguagem)
+|           ☕ código.java (Resolução de acordo com a linguagem)
 ... (Se repete nesse modelo)
 └── LICENSE
 └── README.md
