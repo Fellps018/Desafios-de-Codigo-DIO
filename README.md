@@ -11,14 +11,6 @@ Aqui você encontrará a minha jornada prática pelos bootcamps e cursos da DIO.
 * **Foco:** Resolução de problemas, algoritmos e desenvolvimento de software.
 * **Propósito:** Portfólio técnico e consulta pessoal.
 
----
-
-## 🛠️ Tecnologias & Stacks Utilizadas
-
-* 💻 **Linguagens:** *[Ex: Java, JavaScript, TypeScript, Python, C#]*
-* 🌐 **Frontend:** *[Ex: HTML5, CSS3, React, Angular]*
-* ⚙️ **Backend:** *[Ex: Node.js, Spring Boot, .NET]*
-* 🗄️ **Banco de Dados:** *[Ex: PostgreSQL, MySQL, MongoDB]*
 
 ---
 
@@ -27,14 +19,19 @@ Aqui você encontrará a minha jornada prática pelos bootcamps e cursos da DIO.
 A organização dos arquivos segue a lógica de Bootcamps e trilhas específicas:
 
 ```text
-├── 📂 bootcamp-nome-do-bootcamp/
-│   ├── 📂 desafios-de-codigo/      # Desafios de lógica e algoritmos
-│   └── 📂 desafios-de-projeto/     # Projetos práticos completos
+📂Desafios-de-Codigo-DIO
+|
+└── 📂 Nome do Desafio
+|   └── 📂 desafio-1
+|       └── 📝 desafio.md (explicação)
+|           ☕ código.java (Resolução de acordo c a linguagem)
+... (Se repete nesse modelo)
+└── LICENSE
 └── README.md
 ```
 
 ---
-
+<!-- 
 ## 🏆 Desafios em Destaque
 
 | Nome do Projeto / Desafio | Tecnologia | Descrição Breve | Link do Código |
@@ -43,10 +40,11 @@ A organização dos arquivos segue a lógica de Bootcamps e trilhas específicas
 | **Exemplo de Código 1** | `JavaScript` | Algoritmo de ordenação e busca rápida. | [Ver Código](./) |
 
 ---
+-->
 
 ## 📈 Conecte-se Comigo
 
-Se você quiser trocar ideias sobre os desafios ou fazer um networking, fique à vontade:
+Se você quiser trocar ideias sobre os desafios ou fazer um networking e projetos, fique à vontade:
 
-* **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-usuario)
-* **DIO Profile:** [Seu Perfil DIO](https://dio.me/users/seu-usuario)
+* **LinkedIn:** [Felipe](linkedin.com/in/felipe-catarino-8a0907373)
+* **DIO Profile:** [Seu Perfil DIO](https://dio.me/users/)
