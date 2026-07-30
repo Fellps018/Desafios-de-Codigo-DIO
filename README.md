@@ -47,4 +47,4 @@ A organização dos arquivos segue a lógica de Bootcamps e trilhas específicas
 Se você quiser trocar ideias sobre os desafios ou fazer um networking e projetos, fique à vontade:
 
 * **LinkedIn:** [Felipe](linkedin.com/in/felipe-catarino-8a0907373)
-* **DIO Profile:** [Seu Perfil DIO](https://dio.me/users/)
+* **DIO Profile:** [Seu Perfil DIO](https://web.dio.me/users/felipecatarinosouza_14621/?tab=achievements)
